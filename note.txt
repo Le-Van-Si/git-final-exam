@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản mã nguồn.
 - Dễ dàng làm việc nhóm với GitHub.
 - Lưu lại lịch sử thay đổi chi tiết.
+- Học được cách sử dụng branch và merge.
+- Biết cách khôi phục file bằng reset và revert.
