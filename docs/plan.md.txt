@@ -1,0 +1,10 @@
+- Thứ 2: Học buổi chiều
+- Thứ 3: Nghỉ ngơi lấy sức
+- Thứ 4: Học 2 buổi
+- Thứ 5: Học buổi sáng
+- Thứ 6: Học buổi chiều
+- Thứ 7: Học sáng
+- Chủ nhật: Nghỉ ngơi
+
+- Ngày bắt đầu: 8/10/2025
+- Ngày kết thúc: 17/10/2025
