@@ -1,0 +1,6 @@
+Tính năng mới: Ghi chú học tập
+- Cho phép tạo ghi chú học hàng ngày
+- Tự động đồng bộ lên GitHub
+- Hỗ trợ markdown
+- Giao diện dễ sử dụng
+- Tích hợp với repo cá nhân
